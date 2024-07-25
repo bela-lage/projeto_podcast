@@ -1,0 +1,38 @@
+Roteiro
+
+Prompts
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de café e cultura nerd, cujo nome é "Café com Nerds - Aventuras e Nerdices em Cada Gole" e tem foco em métodos de preparo de café e cultura nerd/geek, com o público alvo de nerds de café e cultura pop
+
+O formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+- no bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos do canal 'Nerdologia', como se fosse escrita pelo Atila Iamarino
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre café brasileiro
+- no bloco [CURIOSIDADE 2] substitua por uma curiosidade sobre cultura nerd, mais especificamente sobre 'Jujutsu Kaisen'
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Bela e esse foi o Café com Nerd dessa semana'
+- use termos de fácil explicação
+- o podcast será apresentado somente por uma pessoa, chamada Bela
+- o podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+- Não utilizar muitos termos técnicos
+- Não ultrapassar 5 minutos de duração
+
+RESPOSTA:
+
+[INTRODUÇÃO]
+Olá, pessoal! Sejam bem-vindos ao "Café com Nerds - Aventuras e Nerdices em Cada Gole". Eu sou a Bela, e hoje vamos misturar o sabor do café com a magia da cultura nerd. Preparados para uma viagem pelos aromas e histórias? Então pega sua xícara e vamos começar!
+
+[CURIOSIDADE 1]
+Você sabia que o Brasil é o maior produtor de café do mundo? Mas além da quantidade, a qualidade do nosso café é reconhecida internacionalmente. O café brasileiro é famoso por sua variedade de sabores e aromas, que vão do doce frutado ao amargo encorpado. Isso se deve ao nosso clima tropical e ao solo fértil, que proporcionam condições ideais para o cultivo de diferentes tipos de café. Um exemplo bem conhecido é o café da região de Minas Gerais, que pode conter notas de chocolate e nozes, perfeito para um café da manhã especial.
+
+[CURIOSIDADE 2]
+Agora, vamos dar um salto para o universo dos animes! Você já ouviu falar de "Jujutsu Kaisen"? Esse anime incrível conta a história de Yuji Itadori, um estudante que acaba se envolvendo com feitiçaria e maldições. Um fato curioso sobre "Jujutsu Kaisen" é que o autor, Gege Akutami, se inspirou em várias culturas e mitologias para criar as maldições e personagens do anime. Por exemplo, o personagem Satoru Gojo tem habilidades que remetem ao conceito de energia espiritual presente em várias tradições religiosas. Além disso, o sucesso do anime foi tão grande que ajudou a popularizar ainda mais o gênero de ação sobrenatural no mundo todo.
+
+[FINALIZAÇÃO]
+E é isso por hoje, pessoal! Espero que tenham curtido essa mistura de café com cultura nerd. Não esqueçam de acompanhar nossos próximos episódios para mais aventuras e curiosidades. Eu sou a Bela e esse foi o Café com Nerd dessa semana. Até a próxima!

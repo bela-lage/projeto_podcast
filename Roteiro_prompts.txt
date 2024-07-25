@@ -1,0 +1,20 @@
+ROTEIRISTA
+
+NOME DO PODCAST
+
+Prompt: você é um roteirista de um podcast, e vamos criar um podcast de café, focado em métodos coados e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de café feito por nerds e que tenha algum trocadilho nerd no nome
+
+O podcast vai falar sobre dicas, novidades e análises sobre o mundo de café e cultura nerd e o que está acontecendo no momento
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como demon slayer, jujutsu kaisen, harry potter, x-men ou vingadores
+- O nome deve conter alguma palavra forte que remeta a café
+
+{REGRAS NEGATIVAS}
+
+- O título não deve conter palavras em inglês
+- Não utilize nenhuma das palavras nessa lista: crime, dungeon, brasil
+
+Título com base nos gerados: Café com Nerds - Aventuras e Nerdices em cada gole!
